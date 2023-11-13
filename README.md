@@ -14,4 +14,4 @@ Olá! Sou estudante de Técnico em Química 🧪 e também aluna do programa Ger
 
 
 ## 📬 Vamos nos Conectar!
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-oliveira/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-oliveira-500937226/)
